@@ -1,0 +1,12 @@
+/* To remove the footer in the original Cayman theme. */
+
+/*
+---
+---
+
+@import "{{ site.theme }}"; // Sets the Jekyll theme defined in the _config.yml file. Equivalent to @import "jekyll-theme-cayman".
+
+footer {
+  display: none !important;
+}
+*/

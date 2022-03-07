@@ -1,0 +1,15 @@
+theme: jekyll-theme-cayman
+
+# Jekyll settings
+lang: en-US
+title: QuCAI-Lab
+description: Quantum-Classical Artificial Intelligence and NMR Laboratory at NTNU, Taipei (Taiwan)
+paginate: 1
+show_downloads: False
+google_analytics: UA-216945107-1
+remote_theme: lewismiddleton/cayman-dark
+
+# About/contact
+author: 
+  name: Lucas Camponogara Viera
+  url: linkedin.com/in/camponogaralucas

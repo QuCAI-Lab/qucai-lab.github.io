@@ -97,12 +97,20 @@
     - [MIT 6.S191 (2020): Introduction to Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLneI7EukdQSXE_cnz6z8Qn0aONTGKusq-&index=33&ab_channel=AlexanderAmini).
     - [3Blue1Brown: Backpropagation calculus - Chapter 4, Deep learning](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLneI7EukdQSXE_cnz6z8Qn0aONTGKusq-&index=23&ab_channel=3Blue1Brown).
     - [MIT 6.S191: Reinforcement Learning](https://www.youtube.com/watch?v=93M1l_nrhpQ&list=PLneI7EukdQSXE_cnz6z8Qn0aONTGKusq-&index=26&ab_channel=AlexanderAmini).
+    - [Deep Reinforcement Learning: Policy Gradients and Q-Learning (John Schulman, OpenAI)](https://www.youtube.com/watch?v=PtAIh9KSnjo).
+    - [Deep Reinforcement Learning via Policy Optimization (John Schulman, OpenAI)](https://www.youtube.com/watch?v=y4ci8whvS1E).
+    - [John Schulman 1: Deep Reinforcement Learning](https://www.youtube.com/watch?v=aUrX-rP_ss4).
   - Books:
-    - [Deep Learning. Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/).  
+    - Deep Learning (Ian J. Goodfellow, Yoshua Bengio and Aaron Courville), [MIT Press](https://www.deeplearningbook.org/), 2016].  
+    - Richard S. Sutton and Andrew G. Barto. [Cambridge, MA: MIT Press, 1998, 340 pp.](https://www.google.com/search?q=Reinforcement+Learning%3A+An+Introduction&rlz=1C1ASUM_enTW958TW958&oq=Reinforcement+Learning%3A+An+Introduction&aqs=chrome..69i57j69i65.202j0j9&sourceid=chrome&ie=UTF-8).
   - Couses:
-    - [fast.ai MOOC](https://www.fast.ai/).  
-    - [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course).
-    - [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&ab_channel=DeepMind).
+    - Supervised Learning
+      - [fast.ai MOOC](https://www.fast.ai/).  
+      - [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course).
+    - Reinforcement Learning
+      - [UCL COMPM050/COMPGI13 (2015): RL by David Silver](https://www.davidsilver.uk/teaching/).
+      - [UC Berkeley CS285 (Fall 2022): Deep RL by Sergey Levine](http://rll.berkeley.edu/deeprlcourse/).
+      - [Deep RL Bootcamp, Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures).
   
 ## **Quantum Machine Learning (QML)**<a name="QML" /> 
   - Books:

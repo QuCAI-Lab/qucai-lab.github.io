@@ -108,12 +108,14 @@
       - [fast.ai MOOC](https://www.fast.ai/).  
       - [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course).
     - Reinforcement Learning
-    	- [UCL COMPM050/COMPGI13 (2015): RL by David Silver](https://www.davidsilver.uk/teaching/).
-    	- [UC Berkeley CS285 (Fall 2022): Deep RL by Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/).
-    	- [Deep RL Bootcamp, Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures).
-    	- [John Schulman's PhD Thesis](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.html).
-    	- [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/).
-    	- [Williams, R.J. Simple statistical gradient-following algorithms for connectionist reinforcement learning. Mach Learn 8, 229–256 (1992).](https://doi.org/10.1007/BF00992696)
+      - [UCL COMPM050/COMPGI13 (2015): RL by David Silver](https://www.davidsilver.uk/teaching/).
+      - [UC Berkeley CS285 (Fall 2022): Deep RL by Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/).
+      - [Deep RL Bootcamp, Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures).
+      - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/).
+  - Thesis:
+    - [John Schulman's PhD Thesis](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.html).
+  - Papers:
+    - [Williams, R.J. Simple statistical gradient-following algorithms for connectionist reinforcement learning. Mach Learn 8, 229–256 (1992).](https://doi.org/10.1007/BF00992696)
   
 ## **Quantum Machine Learning (QML)**<a name="QML" /> 
   - Books:

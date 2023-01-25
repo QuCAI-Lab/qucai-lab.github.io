@@ -27,8 +27,8 @@
 
 # &nbsp; <a href="#"><img valign="middle" height="45px" src="https://img.icons8.com/physics" width="45" hspace="0px" vspace="0px"></a> Research areas of interest<a name="Research" />  
 
-- Development of quantum-classical machine/deep learning algorithms for optimization of VQE experiments and Quantum Kernels.
-- Development of reinforcement learning algorithms for optimization of circuit-based superconducting qubits in circuit QED. 
+- Development of quantum-classical deep learning algorithms for optimization of VQE experiments and Quantum Kernels.
+- Development of classical reinforcement learning algorithms (online/offline) for optimization of circuit-based superconducting qubits in circuit QED.
 
 <!-- ############################################################################################################################################################## -->
 
@@ -102,15 +102,18 @@
     - [John Schulman 1: Deep Reinforcement Learning](https://www.youtube.com/watch?v=aUrX-rP_ss4).
   - Books:
     - Deep Learning (Ian J. Goodfellow, Yoshua Bengio and Aaron Courville), [MIT Press](https://www.deeplearningbook.org/), 2016].  
-    - Richard S. Sutton and Andrew G. Barto. [Cambridge, MA: MIT Press, 1998, 340 pp.](https://www.google.com/search?q=Reinforcement+Learning%3A+An+Introduction&rlz=1C1ASUM_enTW958TW958&oq=Reinforcement+Learning%3A+An+Introduction&aqs=chrome..69i57j69i65.202j0j9&sourceid=chrome&ie=UTF-8).
+    - "Reinforcement Learning: An Introduction." Richard S. Sutton and Andrew G. Barto. [Cambridge, MA: The MIT Press, March 22, 2018, 548 pp.](#).
   - Couses:
     - Supervised Learning
       - [fast.ai MOOC](https://www.fast.ai/).  
       - [Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course).
     - Reinforcement Learning
-      - [UCL COMPM050/COMPGI13 (2015): RL by David Silver](https://www.davidsilver.uk/teaching/).
-      - [UC Berkeley CS285 (Fall 2022): Deep RL by Sergey Levine](http://rll.berkeley.edu/deeprlcourse/).
-      - [Deep RL Bootcamp, Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures).
+		  - [UCL COMPM050/COMPGI13 (2015): RL by David Silver](https://www.davidsilver.uk/teaching/).
+		  - [UC Berkeley CS285 (Fall 2022): Deep RL by Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/).
+		  - [Deep RL Bootcamp, Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures).
+		  - [John Schulman's PhD Thesis](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-217.html).
+		  - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/).
+		  - [Williams, R.J. Simple statistical gradient-following algorithms for connectionist reinforcement learning. Mach Learn 8, 229–256 (1992).](https://doi.org/10.1007/BF00992696)
   
 ## **Quantum Machine Learning (QML)**<a name="QML" /> 
   - Books:

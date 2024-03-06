@@ -20,6 +20,7 @@
  
 - Circuit Quantum Electrodynamics:
   - [Circuit Quantum Electrodynamics (cQED)](https://github.com/QuCAI-Lab/circuit-qed)
+  - [Finding the Transmon Regime with DDPG Algorithm](https://github.com/QuCAI-Lab/reinforce-transmon) 
 
 - Classical Machine Learning:
   - [Vanilla NumPy MLP neural network with SGD and Backpropagation](https://github.com/QuCAI-Lab/vanilla-numpy-mlp)

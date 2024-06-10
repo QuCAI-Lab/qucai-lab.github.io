@@ -1,0 +1,15 @@
+theme: jekyll-theme-cayman
+
+# Jekyll settings
+lang: en-US
+title: QuCAI-Lab
+description: Quantum-Classical Artificial Intelligence Laboratory
+paginate: 1
+show_downloads: False
+google_analytics: 
+remote_theme: lewismiddleton/cayman-dark
+
+# About/contact
+author: 
+  name: Lucas Camponogara Viera
+  url: linkedin.com/in/camponogaraviera/
